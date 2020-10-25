@@ -190,4 +190,4 @@ In the code block above, we write a function called checkWinner that checks for 
 
 At the end of this, our project should look like this:
 
-![Screenshot](https://github.com/codemaker2015/React-tictactoe/blob/master/src/assets/Screenshot.png)
+![Screenshot](https://github.com/codemaker2015/React-tictactoe/blob/master/src/assets/Screenshot.PNG)
